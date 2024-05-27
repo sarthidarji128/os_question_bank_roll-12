@@ -1,4 +1,4 @@
-#1. Basic File Handling Utilities in Linux and Their Usage
+# 1. Basic File Handling Utilities in Linux and Their Usage
 
 ls: Lists the contents of a directory.
 Usage: ls [options] [directory]
