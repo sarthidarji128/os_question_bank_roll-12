@@ -32,3 +32,15 @@ rmdir: Removes empty directories.
 Usage: rmdir directory
 Example: rmdir old_empty_directory
 
+
+# 2. Fundamental Concepts of Files in Computer Systems and Their Representation
+
+ File Name: This is the humanreadable identifier for the file. It's how users recognize and access files without needing to understand the underlying technical details.
+
+ File Path: This represents the location of the file within the file system hierarchy. It typically includes the directories and subdirectories leading up to the file, providing a unique address for each file.
+
+ File Descriptor: In computing, a file descriptor is an integer that uniquely identifies an open file in a computer's operating system. It acts as a handle that programs can use to request read, write, or other operations on the file.
+
+ File Metadata: This includes all the information about the file other than its content. Metadata can consist of the file's size, its permissions (who can read, write, or execute it), timestamps (like creation or last modification times), and the file's owner.
+
+ File Content: This is the actual data or information stored within the file. It could be text, images, executable code, or any other type of data.
